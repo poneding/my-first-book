@@ -1,7 +1,6 @@
 [book]
 authors = ["poneding"]
 language = "en"
-multilingual = false
 src = "src"
 title = "My First Book"
 
